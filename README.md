@@ -13,3 +13,6 @@
 
 test good
 test2
+test
+setset
+set
