@@ -12,3 +12,4 @@
 | Get | /guestbook/list(page= ${result.start -1} | 이전 페이지 |
 
 test good
+test2
