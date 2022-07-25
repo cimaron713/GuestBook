@@ -10,3 +10,5 @@
 | get | /guestbook/list | 검색기능 |
 | Get | /guestbook/list(page= ${result.end + 1} | 다음 페이지 |
 | Get | /guestbook/list(page= ${result.start -1} | 이전 페이지 |
+
+test good
